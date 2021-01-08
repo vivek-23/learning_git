@@ -1,0 +1,1 @@
+I am master file 2.(from master branch)
