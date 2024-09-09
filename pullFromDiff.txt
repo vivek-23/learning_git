@@ -1,1 +1,2 @@
 Pulling from another branch
+Now, this is a change made directly on remote git.
